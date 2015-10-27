@@ -1,0 +1,26 @@
+{
+  "name": "tplinc",
+  "version": "1.0.0",
+  "description": "template include",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obingo/tplinc.git"
+  },
+  "keywords": [
+    "url",
+    "combo"
+  ],
+  "author": "xsbchen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/obingo/tplinc/issues"
+  },
+  "homepage": "https://github.com/obingo/tplinc#readme",
+  "dependencies": {
+    "lodash": "^3.10.1"
+  }
+}
