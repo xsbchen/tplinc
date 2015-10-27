@@ -58,3 +58,5 @@ function _getTemplate(tplFile, tplName) {
     var result = templateCache[tplFile][tplName];
     return typeof result === 'undefined' ? '' : result;
 }
+
+module.exports = Tplinc;
