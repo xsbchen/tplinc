@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/obingo/tplinc.git"
+    "url": "git+https://github.com/xsbchen/tplinc.git"
   },
   "keywords": [
     "url",
@@ -17,9 +17,9 @@
   "author": "xsbchen",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/obingo/tplinc/issues"
+    "url": "https://github.com/xsbchen/tplinc/issues"
   },
-  "homepage": "https://github.com/obingo/tplinc#readme",
+  "homepage": "https://github.com/xsbchen/tplinc#readme",
   "dependencies": {
     "lodash": "^3.10.1"
   }
